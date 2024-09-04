@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+.waves
+venv-geoai-ground-level-no2-estimation
 __pycache__/
 *.py[cod]
 *$py.class
